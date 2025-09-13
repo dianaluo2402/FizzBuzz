@@ -18,5 +18,6 @@ public class Reduce {
 
         }
         System.out.println(count);
+
     }
 }
